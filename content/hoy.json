@@ -1,6 +1,6 @@
 {
   "fecha": "Jueves 22 de octubre de 2026",
-  "actualizado": "07:02 h",
+  "actualizado": "18:55 h",
   "dato": {
     "cifra": "59.8%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad.",
@@ -11,29 +11,29 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.67",
-      "detalle": "Desde 18.43 el día anterior",
+      "valor": "$18.71",
+      "detalle": "Banxico 18.7134; peor nivel desde sept. 2025",
       "tendencia": "sube",
-      "nota": "2026-10-21-el-dolar-cierra-en-18-67-pesos-el-peso-pierde-mas-de-1"
+      "nota": "2026-10-22-el-peso-cierra-en-18-71-por-dolar-su-peor-nivel-desde-septiembre-de-20"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "108.79 USD",
-      "detalle": "WTI en 97.15 USD",
-      "tendencia": "igual",
-      "nota": "2026-10-22-petroleo-cierra-casi-sin-cambios-brent-en-108-79-y-wti-en-97-15-dolare"
+      "valor": "113.17 USD",
+      "detalle": "+4%; WTI en 99.47 USD",
+      "tendencia": "sube",
+      "nota": "2026-10-22-el-brent-sube-4-y-cierra-en-113-dolares-por-tensiones-en-ormuz"
+    },
+    {
+      "nombre": "Inflación anual",
+      "valor": "3.62%",
+      "detalle": "1a quincena de octubre; subyacente 3.78%",
+      "tendencia": "sube",
+      "nota": "2026-10-22-la-inflacion-sube-a-3-62-en-la-primera-quincena-de-octubre-por-encima"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "70,249 pts",
-      "detalle": "+1.43%, máximo desde abril",
-      "tendencia": "sube",
-      "nota": "2026-10-22-la-bolsa-mexicana-sube-1-43-y-supera-los-70-mil-puntos"
-    },
-    {
-      "nombre": "Ingresos por servicios",
-      "valor": "+0.3%",
-      "detalle": "Agosto, mensual (julio: +0.9%)",
+      "valor": "69,774 pts",
+      "detalle": "-0.68% tras superar los 70 mil",
       "tendencia": "baja"
     }
   ]

@@ -1,0 +1,22 @@
+{
+  "titulo": "La inflación sube a 3.62% en la primera quincena de octubre, por encima de lo previsto",
+  "seccion": "economia",
+  "fecha": "2026-10-22T18:50",
+  "resumen": "El Inegi informó que los precios al consumidor subieron 0.41% en la primera mitad de octubre y la inflación anual llegó a 3.62%; el mercado esperaba 3.60%. La subyacente se ubicó en 3.78% anual. Los mayores aumentos fueron en electricidad (18.51%, por el fin del subsidio de verano en 18 ciudades), transporte aéreo (14.77%) y tomate verde (22.07%); bajaron el limón, el aguacate, el plátano y el jitomate.",
+  "cuerpo": "",
+  "imagen_tema": "bolsa",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Expansión",
+      "enlace": "https://expansion.mx/economia/2026/10/22/inegi-inflacion-sorprende-al-alza-octubre-3-62-anual"
+    },
+    {
+      "medio": "El Imparcial",
+      "enlace": "https://www.elimparcial.com/dinero/2026/10/22/inegi-reporta-que-la-inflacion-en-mexico-subio-a-362-anual-en-la-primera-quincena-de-octubre-debido-al-encarecimiento-de-la-electricidad-y-el-transporte-aereo/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}
