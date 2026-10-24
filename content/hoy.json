@@ -1,40 +1,41 @@
 {
   "fecha": "Viernes 23 de octubre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:55 h",
   "dato": {
-    "cifra": "59.8%",
-    "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad.",
-    "detalle": "91 áreas urbanas de interés",
-    "fuente": "INEGI, ENSU, junio 2026",
-    "enlace": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/ensu/ENSU2026_07_CP.pdf"
+    "cifra": "58.1%",
+    "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
+    "detalle": "91 áreas urbanas; 59.8% en junio",
+    "fuente": "INEGI, ENSU, septiembre 2026",
+    "enlace": "https://www.inegi.org.mx/programas/ensu/"
   },
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.71",
-      "detalle": "Banxico 18.7134; peor nivel desde sept. 2025",
-      "tendencia": "sube",
-      "nota": "2026-10-22-el-peso-cierra-en-18-71-por-dolar-su-peor-nivel-desde-septiembre-de-20"
+      "valor": "$18.65",
+      "detalle": "-0.34% en el día; +0.84% en la semana",
+      "tendencia": "baja",
+      "nota": "2026-10-23-el-peso-cierra-en-18-65-por-dolar-pero-suma-su-septima-semana-de-perdi"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "113.17 USD",
-      "detalle": "+4%; WTI en 99.47 USD",
+      "valor": "116.72 USD",
+      "detalle": "+3.14%; WTI en 103.27 USD",
       "tendencia": "sube",
-      "nota": "2026-10-22-el-brent-sube-4-y-cierra-en-113-dolares-por-tensiones-en-ormuz"
+      "nota": "2026-10-23-el-brent-cierra-en-116-72-dolares-su-nivel-mas-alto-en-casi-seis-meses"
     },
     {
-      "nombre": "Inflación anual",
-      "valor": "3.62%",
-      "detalle": "1a quincena de octubre; subyacente 3.78%",
+      "nombre": "Actividad económica",
+      "valor": "+0.6%",
+      "detalle": "IGAE agosto, mensual; +3.5% anual",
       "tendencia": "sube",
-      "nota": "2026-10-22-la-inflacion-sube-a-3-62-en-la-primera-quincena-de-octubre-por-encima"
+      "nota": "2026-10-23-la-economia-crece-0-6-en-agosto-por-encima-de-lo-esperado-inegi"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "69,774 pts",
-      "detalle": "-0.68% tras superar los 70 mil",
-      "tendencia": "baja"
+      "valor": "69,880 pts",
+      "detalle": "-0.01% al cierre",
+      "tendencia": "igual",
+      "nota": "2026-10-23-el-brent-cierra-en-116-72-dolares-su-nivel-mas-alto-en-casi-seis-meses"
     }
   ]
 }
