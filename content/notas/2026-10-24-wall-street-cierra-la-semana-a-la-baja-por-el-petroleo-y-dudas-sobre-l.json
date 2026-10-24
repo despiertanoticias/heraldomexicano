@@ -1,0 +1,22 @@
+{
+  "titulo": "Wall Street cierra la semana a la baja por el petróleo y dudas sobre la IA",
+  "seccion": "economia",
+  "fecha": "2026-10-24T06:45",
+  "resumen": "El viernes, el Dow Jones cayó 1.23% a 52 mil 215 puntos, el S&P 500 bajó 0.52% a 7 mil 623 y el Nasdaq perdió 0.21% a 25 mil 955. En la semana, el Dow ganó 0.4%, mientras el S&P 500 y el Nasdaq retrocedieron 0.5% y 0.7%. Pesaron el alza del crudo por la tensión con Irán, las dudas sobre la rentabilidad del gasto en inteligencia artificial y un rendimiento del bono del Tesoro a 10 años cercano a 5%.",
+  "cuerpo": "",
+  "imagen_tema": "bolsa",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae / EFE",
+      "enlace": "https://www.infobae.com/america/agencias/2026/10/23/wall-street-cierra-en-rojo-tras-una-semana-volatil-centrada-en-el-petroleo-y-la-ia/"
+    },
+    {
+      "medio": "La Nación",
+      "enlace": "https://www.lanacion.com.ar/estados-unidos/wall-street-cierra-a-la-baja-impactada-por-un-nuevo-repunte-del-petroleo-nid23102026/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
