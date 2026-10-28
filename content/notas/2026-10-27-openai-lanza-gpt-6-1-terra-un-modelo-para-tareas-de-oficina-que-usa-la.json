@@ -1,0 +1,18 @@
+{
+  "titulo": "OpenAI lanza GPT-6.1 Terra, un modelo para tareas de oficina que usa la computadora y cuesta menos",
+  "seccion": "tecnologia",
+  "fecha": "2026-10-27T18:02",
+  "resumen": "OpenAI presentó GPT-6.1 Terra, un modelo de gama media que, según la empresa, combina razonamiento visual, uso de la computadora y redacción para tareas como llenar formularios o leer planos. En la API cuesta 1 dólar por millón de tokens de entrada y 5 de salida, frente a 2 y 12 de su antecesor. Está disponible para suscriptores Plus, Pro, Enterprise y Edu y tiene una ventana de contexto de 1.05 millones de tokens. La mayoría de los resultados de desempeño provienen de pruebas de la propia OpenAI.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/tecno/2026/10/27/openai-lanzo-gpt-61-terra-un-modelo-de-ia-que-usa-la-computadora-y-cuesta-la-mitad/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

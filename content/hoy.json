@@ -1,6 +1,6 @@
 {
   "fecha": "Martes 27 de octubre de 2026",
-  "actualizado": "07:20 h",
+  "actualizado": "18:40 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,17 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.56",
-      "detalle": "Cierre del lunes (Banxico); abre hoy en 18.62",
-      "tendencia": "baja",
-      "nota": "2026-10-27-el-peso-abre-el-martes-en-18-62-por-dolar-con-una-baja-de-0-26-frente"
+      "valor": "$18.68",
+      "detalle": "Cierre del martes (Banxico); el peso cede 0.65%",
+      "tendencia": "sube",
+      "nota": "2026-10-27-el-peso-cede-0-65-y-cierra-en-18-68-por-dolar-antes-de-la-decision-de"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "115.81 USD",
-      "detalle": "-0.78% al cierre del lunes; mezcla mexicana en 104.68 USD",
+      "valor": "113.88 USD",
+      "detalle": "-1.67% al cierre del martes",
       "tendencia": "baja",
-      "nota": "2026-10-27-la-mezcla-mexicana-cierra-en-104-68-dolares-el-brent-baja-0-78-por-exp"
+      "nota": "2026-10-27-el-brent-baja-1-67-y-cierra-en-113-88-dolares-por-la-diplomacia-en-med"
+    },
+    {
+      "nombre": "Balanza comercial",
+      "valor": "-606 mdd",
+      "detalle": "Déficit de septiembre (INEGI); exportaciones +37.9% anual",
+      "tendencia": "baja",
+      "nota": "2026-10-27-mexico-vuelve-al-deficit-comercial-en-septiembre-606-millones-de-dolar"
     },
     {
       "nombre": "Actividad económica",
@@ -29,13 +36,6 @@
       "detalle": "IGAE agosto, mensual; +3.5% anual",
       "tendencia": "sube",
       "nota": "2026-10-23-la-economia-crece-0-6-en-agosto-por-encima-de-lo-esperado-inegi"
-    },
-    {
-      "nombre": "S&P/BMV IPC",
-      "valor": "69,880 pts",
-      "detalle": "-0.01% al cierre",
-      "tendencia": "igual",
-      "nota": "2026-10-23-el-brent-cierra-en-116-72-dolares-su-nivel-mas-alto-en-casi-seis-meses"
     }
   ]
 }
