@@ -1,6 +1,6 @@
 {
   "fecha": "Miércoles 28 de octubre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:55 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,17 +11,17 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.68",
-      "detalle": "Cierre del martes (Banxico); el peso cede 0.65%",
-      "tendencia": "sube",
-      "nota": "2026-10-27-el-peso-cede-0-65-y-cierra-en-18-68-por-dolar-antes-de-la-decision-de"
+      "valor": "$18.63",
+      "detalle": "Cierre del miércoles; el peso gana 0.21% (FIX Banxico: 18.6673)",
+      "tendencia": "baja",
+      "nota": "2026-10-28-el-peso-cierra-en-18-63-por-dolar-y-gana-0-21-tras-la-decision-de-la-f"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "113.88 USD",
-      "detalle": "-1.67% al cierre del martes",
-      "tendencia": "baja",
-      "nota": "2026-10-27-el-brent-baja-1-67-y-cierra-en-113-88-dolares-por-la-diplomacia-en-med"
+      "valor": "115.32 USD",
+      "detalle": "+1.26% al cierre del miércoles",
+      "tendencia": "sube",
+      "nota": "2026-10-28-el-brent-sube-1-26-a-115-32-dolares-tras-el-ataque-huti-a-la-refineria"
     },
     {
       "nombre": "Balanza comercial",
@@ -31,11 +31,11 @@
       "nota": "2026-10-27-mexico-vuelve-al-deficit-comercial-en-septiembre-606-millones-de-dolar"
     },
     {
-      "nombre": "Actividad económica",
-      "valor": "+0.6%",
-      "detalle": "IGAE agosto, mensual; +3.5% anual",
-      "tendencia": "sube",
-      "nota": "2026-10-23-la-economia-crece-0-6-en-agosto-por-encima-de-lo-esperado-inegi"
+      "nombre": "Tasa de la Fed",
+      "valor": "3.75%-4%",
+      "detalle": "Sin cambios; dos votos por subirla",
+      "tendencia": "igual",
+      "nota": "2026-10-28-la-fed-deja-su-tasa-entre-3-75-y-4-dos-integrantes-votaron-por-subirla"
     }
   ]
 }
