@@ -1,6 +1,6 @@
 {
   "fecha": "Jueves 29 de octubre de 2026",
-  "actualizado": "07:10 h",
+  "actualizado": "18:45 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,17 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.63",
-      "detalle": "Cierre del miércoles; el peso gana 0.21% (FIX Banxico: 18.6673)",
-      "tendencia": "baja",
-      "nota": "2026-10-28-el-peso-cierra-en-18-63-por-dolar-y-gana-0-21-tras-la-decision-de-la-f"
+      "valor": "$18.83",
+      "detalle": "Cierre del jueves; el peso pierde 1.05% (Banxico: 18.84)",
+      "tendencia": "sube",
+      "nota": "2026-10-29-el-peso-pierde-mas-de-1-y-cierra-en-18-83-por-dolar-tras-el-fuerte-cre"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "115.32 USD",
-      "detalle": "+1.26% al cierre del miércoles",
+      "valor": "114.88 USD",
+      "detalle": "-0.38% al cierre del jueves; WTI en 102",
+      "tendencia": "baja",
+      "nota": "2026-10-29-el-brent-baja-0-38-a-114-88-dolares-tras-reportes-de-una-carta-de-vanc"
+    },
+    {
+      "nombre": "S&P/BMV IPC",
+      "valor": "69,787",
+      "detalle": "+0.87% al cierre del jueves; +8.68% en octubre",
       "tendencia": "sube",
-      "nota": "2026-10-28-el-brent-sube-1-26-a-115-32-dolares-tras-el-ataque-huti-a-la-refineria"
+      "nota": "2026-10-29-la-bolsa-mexicana-sube-0-87-y-cierra-en-69-787-puntos-acumula-8-68-en"
     },
     {
       "nombre": "Actividad económica",
@@ -29,13 +36,6 @@
       "detalle": "Estimación oportuna (INEGI) de septiembre, anual; mejor mes desde 2023",
       "tendencia": "sube",
       "nota": "2026-10-29-hacienda-la-actividad-economica-crecio-3-7-anual-en-septiembre-su-mejo"
-    },
-    {
-      "nombre": "Tasa de la Fed",
-      "valor": "3.75%-4%",
-      "detalle": "Sin cambios; dos votos por subirla",
-      "tendencia": "igual",
-      "nota": "2026-10-28-la-fed-deja-su-tasa-entre-3-75-y-4-dos-integrantes-votaron-por-subirla"
     }
   ]
 }
