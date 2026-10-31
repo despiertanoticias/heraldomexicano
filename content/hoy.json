@@ -1,6 +1,6 @@
 {
   "fecha": "Viernes 30 de octubre de 2026",
-  "actualizado": "06:56 h",
+  "actualizado": "19:45 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,24 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.83",
-      "detalle": "Cierre del jueves (Banxico: 18.84); abre el viernes en 18.88",
-      "tendencia": "sube",
-      "nota": "2026-10-30-el-peso-abre-el-viernes-en-18-88-por-dolar-y-acumula-una-perdida-de-1"
+      "valor": "$18.80",
+      "detalle": "Cierre del viernes (Banxico); el peso pierde 4% en octubre",
+      "tendencia": "baja",
+      "nota": "2026-10-30-el-peso-cierra-octubre-con-una-caida-de-4-y-suma-ocho-semanas-de-perdi"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "114.88 USD",
-      "detalle": "-0.38% al cierre del jueves; WTI en 102",
-      "tendencia": "baja",
-      "nota": "2026-10-29-el-brent-baja-0-38-a-114-88-dolares-tras-reportes-de-una-carta-de-vanc"
+      "valor": "117.64 USD",
+      "detalle": "+2.4% al cierre del viernes; WTI en 104.12",
+      "tendencia": "sube",
+      "nota": "2026-10-30-el-brent-sube-2-4-a-117-64-dolares-su-mayor-cierre-desde-mayo-por-ataq"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "69,787",
-      "detalle": "+0.87% al cierre del jueves; +8.68% en octubre",
-      "tendencia": "sube",
-      "nota": "2026-10-29-la-bolsa-mexicana-sube-0-87-y-cierra-en-69-787-puntos-acumula-8-68-en"
+      "valor": "69,779",
+      "detalle": "-0.01% al cierre del viernes; +8.67% en octubre",
+      "tendencia": "igual",
+      "nota": "2026-10-30-la-bolsa-mexicana-cierra-octubre-con-un-alza-de-8-67-en-69-779-puntos"
     },
     {
       "nombre": "Actividad económica",
