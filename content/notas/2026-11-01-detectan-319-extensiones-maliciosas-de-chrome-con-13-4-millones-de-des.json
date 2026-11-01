@@ -1,0 +1,18 @@
+{
+  "titulo": "Detectan 319 extensiones maliciosas de Chrome con 13.4 millones de descargas que desvían las búsquedas",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-01T06:26",
+  "resumen": "El investigador John Tuckner, de Socket, identificó extensiones que se presentaban como convertidores de PDF, buscadores con IA o herramientas de navegación segura y que cambiaban el buscador predeterminado para pasar las consultas por servidores de sus operadores y cobrar publicidad. Muchas ya fueron retiradas de la Chrome Web Store, pero se recomienda revisar permisos y eliminar extensiones desconocidas si el buscador cambia sin autorización.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/tecno/2026/10/31/detectan-319-extensiones-maliciosas-de-google-chrome-que-manipulan-las-busquedas-y-ponen-en-riesgo-a-millones-de-usuarios/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
