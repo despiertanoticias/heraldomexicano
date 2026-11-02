@@ -1,6 +1,6 @@
 {
-  "fecha": "Domingo 1 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Lunes 2 de noviembre de 2026",
+  "actualizado": "07:20 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -10,18 +10,18 @@
   },
   "indicadores": [
     {
-      "nombre": "Dólar (cierre)",
-      "valor": "$18.80",
-      "detalle": "Cierre del viernes (Banxico); el peso pierde 4% en octubre",
+      "nombre": "Dólar (apertura)",
+      "valor": "$18.74",
+      "detalle": "Lunes: -0.26% vs. cierre previo; sin FIX por día inhábil bancario",
       "tendencia": "baja",
-      "nota": "2026-10-30-el-peso-cierra-octubre-con-una-caida-de-4-y-suma-ocho-semanas-de-perdi"
+      "nota": "2026-11-02-el-peso-abre-la-semana-en-18-74-por-dolar-banxico-no-publica-el-fix-po"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "117.64 USD",
-      "detalle": "+2.4% al cierre del viernes; WTI en 104.12",
-      "tendencia": "sube",
-      "nota": "2026-10-30-el-brent-sube-2-4-a-117-64-dolares-su-mayor-cierre-desde-mayo-por-ataq"
+      "valor": "110.23 USD",
+      "detalle": "-2.82% en la mañana del lunes (contrato de enero)",
+      "tendencia": "baja",
+      "nota": "2026-11-02-el-brent-cae-casi-3-a-110-dolares-por-la-expectativa-de-un-acuerdo-ent"
     },
     {
       "nombre": "S&P/BMV IPC",
