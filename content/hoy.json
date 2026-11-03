@@ -1,6 +1,6 @@
 {
-  "fecha": "Lunes 2 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Martes 3 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -12,16 +12,16 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$18.57",
-      "detalle": "Lunes: -1.2% vs. 18.79 previo (Dow Jones); sin FIX por día inhábil bancario",
+      "detalle": "Cierre del lunes: -1.2% vs. 18.79 previo (Dow Jones); FIX para el martes: 18.7962",
       "tendencia": "baja",
       "nota": "2026-11-02-el-peso-cierra-en-18-57-por-dolar-y-gana-1-2-en-el-dia-suma-dos-sesion"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "104.77 USD",
-      "detalle": "-7.63% al cierre del lunes (contrato de enero); WTI en 96.46",
-      "tendencia": "baja",
-      "nota": "2026-11-02-el-brent-se-desploma-7-6-y-cierra-en-104-77-dolares-el-wti-baja-a-96-4"
+      "valor": "106.61 USD",
+      "detalle": "Martes en la mañana: +1.84 dólares tras los ataques de EU en Qeshm; cerró el lunes en 104.77",
+      "tendencia": "sube",
+      "nota": "2026-11-03-eu-lanza-ataques-limitados-contra-la-isla-irani-de-qeshm-en-ormuz-iran"
     },
     {
       "nombre": "S&P/BMV IPC",
