@@ -1,6 +1,6 @@
 {
   "fecha": "Lunes 2 de noviembre de 2026",
-  "actualizado": "07:20 h",
+  "actualizado": "18:40 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -10,23 +10,23 @@
   },
   "indicadores": [
     {
-      "nombre": "Dólar (apertura)",
-      "valor": "$18.74",
-      "detalle": "Lunes: -0.26% vs. cierre previo; sin FIX por día inhábil bancario",
+      "nombre": "Dólar (cierre)",
+      "valor": "$18.57",
+      "detalle": "Lunes: -1.2% vs. 18.79 previo (Dow Jones); sin FIX por día inhábil bancario",
       "tendencia": "baja",
-      "nota": "2026-11-02-el-peso-abre-la-semana-en-18-74-por-dolar-banxico-no-publica-el-fix-po"
+      "nota": "2026-11-02-el-peso-cierra-en-18-57-por-dolar-y-gana-1-2-en-el-dia-suma-dos-sesion"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "110.23 USD",
-      "detalle": "-2.82% en la mañana del lunes (contrato de enero)",
+      "valor": "104.77 USD",
+      "detalle": "-7.63% al cierre del lunes (contrato de enero); WTI en 96.46",
       "tendencia": "baja",
-      "nota": "2026-11-02-el-brent-cae-casi-3-a-110-dolares-por-la-expectativa-de-un-acuerdo-ent"
+      "nota": "2026-11-02-el-brent-se-desploma-7-6-y-cierra-en-104-77-dolares-el-wti-baja-a-96-4"
     },
     {
       "nombre": "S&P/BMV IPC",
       "valor": "69,779",
-      "detalle": "-0.01% al cierre del viernes; +8.67% en octubre",
+      "detalle": "Sin operaciones el lunes por Día de Muertos; -0.01% el viernes, +8.67% en octubre",
       "tendencia": "igual",
       "nota": "2026-10-30-la-bolsa-mexicana-cierra-octubre-con-un-alza-de-8-67-en-69-779-puntos"
     },
