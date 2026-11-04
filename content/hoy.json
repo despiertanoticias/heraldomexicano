@@ -1,6 +1,6 @@
 {
   "fecha": "Martes 3 de noviembre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:50 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,24 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.57",
-      "detalle": "Cierre del lunes: -1.2% vs. 18.79 previo (Dow Jones); FIX para el martes: 18.7962",
-      "tendencia": "baja",
-      "nota": "2026-11-02-el-peso-cierra-en-18-57-por-dolar-y-gana-1-2-en-el-dia-suma-dos-sesion"
+      "valor": "$18.72",
+      "detalle": "Martes: +16 centavos (Bloomberg) en la jornada electoral de EU; Banamex vende en 19.20",
+      "tendencia": "sube",
+      "nota": "2026-11-03-el-peso-pierde-16-centavos-y-cotiza-en-18-72-por-dolar-en-la-jornada-e"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "106.61 USD",
-      "detalle": "Martes en la mañana: +1.84 dólares tras los ataques de EU en Qeshm; cerró el lunes en 104.77",
-      "tendencia": "sube",
-      "nota": "2026-11-03-eu-lanza-ataques-limitados-contra-la-isla-irani-de-qeshm-en-ormuz-iran"
+      "valor": "103.60 USD",
+      "detalle": "Cierre del martes: -1.17 dólares, mínimo desde el 7 de octubre; WTI en 96.09",
+      "tendencia": "baja",
+      "nota": "2026-11-03-el-brent-baja-por-segunda-sesion-y-cierra-en-103-60-dolares-su-menor-n"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "69,779",
-      "detalle": "Sin operaciones el lunes por Día de Muertos; -0.01% el viernes, +8.67% en octubre",
-      "tendencia": "igual",
-      "nota": "2026-10-30-la-bolsa-mexicana-cierra-octubre-con-un-alza-de-8-67-en-69-779-puntos"
+      "valor": "70,143",
+      "detalle": "Cierre del martes: +0.52% en la primera sesión de noviembre",
+      "tendencia": "sube",
+      "nota": "2026-11-03-la-bolsa-mexicana-sube-0-52-y-cierra-en-70-143-puntos-en-wall-street-e"
     },
     {
       "nombre": "PIB 3er trimestre",
