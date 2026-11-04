@@ -1,6 +1,6 @@
 {
-  "fecha": "Martes 3 de noviembre de 2026",
-  "actualizado": "18:50 h",
+  "fecha": "Miércoles 4 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,10 +11,10 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.72",
-      "detalle": "Martes: +16 centavos (Bloomberg) en la jornada electoral de EU; Banamex vende en 19.20",
+      "valor": "$18.83",
+      "detalle": "Martes: -1.4% para el peso, interbancario Banxico; FIX del miércoles en 18.7592",
       "tendencia": "sube",
-      "nota": "2026-11-03-el-peso-pierde-16-centavos-y-cotiza-en-18-72-por-dolar-en-la-jornada-e"
+      "nota": "2026-11-04-el-peso-cae-1-4-y-cierra-en-18-83-por-dolar-segun-banxico-presionado-p"
     },
     {
       "nombre": "Petróleo Brent",
@@ -31,11 +31,11 @@
       "nota": "2026-11-03-la-bolsa-mexicana-sube-0-52-y-cierra-en-70-143-puntos-en-wall-street-e"
     },
     {
-      "nombre": "PIB 3er trimestre",
-      "valor": "+3.2%",
-      "detalle": "Crecimiento anual (Inegi, estimación oportuna); mayor que lo previsto",
-      "tendencia": "sube",
-      "nota": "2026-11-01-sheinbaum-los-trenes-de-pasajeros-y-la-vivienda-aportan-cerca-de-un-pu"
+      "nombre": "Remesas septiembre",
+      "valor": "5,362 mdd",
+      "detalle": "Monto más bajo en cinco meses (Banxico); acumulado ene-sep +2.1%",
+      "tendencia": "baja",
+      "nota": "2026-11-04-mexico-recibe-5-362-millones-de-dolares-en-remesas-en-septiembre-el-mo"
     }
   ]
 }
