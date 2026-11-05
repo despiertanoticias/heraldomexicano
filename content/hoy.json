@@ -1,5 +1,5 @@
 {
-  "fecha": "Miércoles 4 de noviembre de 2026",
+  "fecha": "Jueves 5 de noviembre de 2026",
   "actualizado": "06:55 h",
   "dato": {
     "cifra": "58.1%",
@@ -11,31 +11,31 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.83",
-      "detalle": "Martes: -1.4% para el peso, interbancario Banxico; FIX del miércoles en 18.7592",
-      "tendencia": "sube",
-      "nota": "2026-11-04-el-peso-cae-1-4-y-cierra-en-18-83-por-dolar-segun-banxico-presionado-p"
+      "valor": "$18.57",
+      "detalle": "Miércoles: +1.44% para el peso, Banxico (18.5669); FIX en 18.6285",
+      "tendencia": "baja",
+      "nota": "2026-11-05-el-peso-gana-1-44-tras-las-elecciones-en-eu-y-cierra-en-18-57-por-dola"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "103.60 USD",
-      "detalle": "Cierre del martes: -1.17 dólares, mínimo desde el 7 de octubre; WTI en 96.09",
+      "valor": "95.36 USD",
+      "detalle": "Miércoles: -7.95% tras el triunfo demócrata en EU; WTI en 88.80",
       "tendencia": "baja",
-      "nota": "2026-11-03-el-brent-baja-por-segunda-sesion-y-cierra-en-103-60-dolares-su-menor-n"
+      "nota": "2026-11-05-el-petroleo-se-desploma-casi-8-el-brent-cae-a-95-36-dolares-tras-el-tr"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "70,143",
-      "detalle": "Cierre del martes: +0.52% en la primera sesión de noviembre",
+      "valor": "70,820",
+      "detalle": "Cierre del miércoles: +0.91%, segunda alza consecutiva; +10.09% en el año",
       "tendencia": "sube",
-      "nota": "2026-11-03-la-bolsa-mexicana-sube-0-52-y-cierra-en-70-143-puntos-en-wall-street-e"
+      "nota": "2026-11-05-la-bolsa-mexicana-sube-0-91-y-cierra-en-70-819-8-puntos-volaris-y-peno"
     },
     {
-      "nombre": "Remesas septiembre",
-      "valor": "5,362 mdd",
-      "detalle": "Monto más bajo en cinco meses (Banxico); acumulado ene-sep +2.1%",
-      "tendencia": "baja",
-      "nota": "2026-11-04-mexico-recibe-5-362-millones-de-dolares-en-remesas-en-septiembre-el-mo"
+      "nombre": "Tasa Banxico",
+      "valor": "6.50%",
+      "detalle": "Decisión este jueves a las 13:00 h; 20 de 36 analistas (Citi) prevén que se mantenga",
+      "tendencia": "igual",
+      "nota": "2026-11-05-banxico-anuncia-hoy-su-decision-de-tasa-la-mayoria-de-los-analistas-pr"
     }
   ]
 }
