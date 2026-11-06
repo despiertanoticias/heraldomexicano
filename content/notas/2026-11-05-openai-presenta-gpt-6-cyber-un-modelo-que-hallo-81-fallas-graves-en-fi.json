@@ -1,0 +1,18 @@
+{
+  "titulo": "OpenAI presenta GPT-6 Cyber, un modelo que halló 81 fallas graves en Firefox y que solo podrán usar clientes verificados",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-05T18:04",
+  "resumen": "La empresa clasificó el modelo en el nivel «crítico» de riesgo en ciberseguridad y limitó su acceso, por API y Codex, a clientes seleccionados de su programa Daybreak Red, como Cisco y Palo Alto Networks. Además de las vulnerabilidades de Firefox, que Mozilla ya empezó a corregir, reprodujo 1,724 fallas del kernel de Linux y entregó 304 hallazgos críticos a sus responsables.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/tecno/2026/11/05/openai-lanzo-un-modelo-de-ia-que-hallo-81-fallas-graves-en-firefox-y-lo-limito-a-clientes-verificados/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
