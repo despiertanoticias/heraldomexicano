@@ -3,6 +3,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
+import { agregarVivo } from "./vivo.mjs";
 
 const RAIZ = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const CARPETA = path.join(RAIZ, "content/notas");
@@ -56,3 +57,6 @@ for (const pagina of fs.readdirSync(RAIZ).filter(f => f.endsWith(".html"))) {
   if (nuevo !== html) fs.writeFileSync(ruta, nuevo);
 }
 console.log(`Listo: ${Math.min(notas.length, MAX_NOTAS)} notas publicadas.`);
+
+// Datos para assets/en-vivo.js (notas publicadas desde /admin sin volver a publicar).
+agregarVivo(RAIZ);
