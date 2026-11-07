@@ -1,6 +1,6 @@
 {
   "fecha": "Viernes 6 de noviembre de 2026",
-  "actualizado": "07:20 h",
+  "actualizado": "18:40 h",
   "dato": {
     "cifra": "58.1%",
     "texto": "de la población de 18 años y más consideró inseguro vivir en su ciudad, el nivel más bajo desde 2013.",
@@ -11,24 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.75",
-      "detalle": "Jueves: -1% para el peso tras el recorte de Banxico (18.57 el miércoles)",
-      "tendencia": "sube",
-      "nota": "2026-11-05-el-peso-pierde-1-tras-el-recorte-de-banxico-y-cierra-en-18-75-por-dola"
+      "valor": "$18.63",
+      "detalle": "Viernes: el peso gana 0.64% (18.75 el jueves), según Banxico",
+      "tendencia": "baja",
+      "nota": "2026-11-06-el-peso-gana-0-64-y-cierra-la-semana-en-18-63-por-dolar-segun-banxico"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "98.40 USD",
-      "detalle": "Viernes por la mañana (Londres): +0.2%; WTI en 90.92. Rumbo a su mayor caída semanal desde 2020",
-      "tendencia": "sube",
-      "nota": "2026-11-06-el-brent-se-mantiene-cerca-de-98-dolares-y-va-rumbo-a-su-mayor-caida-s"
+      "valor": "98.32 USD",
+      "detalle": "Cierre del viernes: sin cambio en el día; -19.6% en la semana. WTI en 90.83",
+      "tendencia": "igual",
+      "nota": "2026-11-06-el-brent-cierra-en-98-32-dolares-y-termina-la-semana-con-una-caida-de"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "71,088",
-      "detalle": "Cierre del jueves: +0.38%, tercera alza seguida; mejor nivel desde febrero",
+      "valor": "71,394",
+      "detalle": "Cierre del viernes: +0.43%, cuarta alza seguida; +2.25% en la semana",
       "tendencia": "sube",
-      "nota": "2026-11-05-la-bolsa-mexicana-sube-0-38-y-cierra-en-71-087-puntos-su-mejor-nivel-d"
+      "nota": "2026-11-06-la-bolsa-mexicana-sube-0-43-y-cierra-en-71-393-puntos-gana-2-25-en-la"
     },
     {
       "nombre": "Tasa Banxico",
