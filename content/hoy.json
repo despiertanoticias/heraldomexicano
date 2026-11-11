@@ -1,6 +1,6 @@
 {
   "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:45 h",
   "dato": {
     "cifra": "3.75%",
     "texto": "fue la inflación anual de octubre, su tercer mes seguido al alza.",
@@ -11,10 +11,10 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.54",
-      "detalle": "Cierre del lunes (Banxico): 18.5377; el peso gana 0.49% en el día",
-      "tendencia": "baja",
-      "nota": "2026-11-09-el-peso-cierra-en-18-54-por-dolar-y-suma-su-segunda-jornada-de-gananci"
+      "valor": "$18.62",
+      "detalle": "Cierre del martes (Banxico): el peso pierde 0.43% tras el dato de inflación de EU",
+      "tendencia": "sube",
+      "nota": "2026-11-10-el-peso-cae-0-43-y-cierra-en-18-62-por-dolar-tras-la-inflacion-de-eu-l"
     },
     {
       "nombre": "Petróleo Brent",
@@ -25,10 +25,10 @@
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "71,856",
-      "detalle": "Cierre del lunes: +0.65%, nuevo máximo histórico",
+      "valor": "71,894",
+      "detalle": "Cierre del martes: +0.05%, sexta alza seguida y nuevo máximo histórico",
       "tendencia": "sube",
-      "nota": "2026-11-09-la-bolsa-mexicana-sube-0-65-y-marca-un-nuevo-maximo-historico-aeromexi"
+      "nota": "2026-11-10-el-peso-cae-0-43-y-cierra-en-18-62-por-dolar-tras-la-inflacion-de-eu-l"
     },
     {
       "nombre": "Tasa Banxico",
