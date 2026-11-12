@@ -1,6 +1,6 @@
 {
-  "fecha": "Miércoles 11 de noviembre de 2026",
-  "actualizado": "07:00 h",
+  "fecha": "Jueves 12 de noviembre de 2026",
+  "actualizado": "07:10 h",
   "dato": {
     "cifra": "3.75%",
     "texto": "fue la inflación anual de octubre, su tercer mes seguido al alza.",
@@ -12,30 +12,29 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$18.62",
-      "detalle": "Cierre del martes (Banxico): el peso pierde 0.43% tras el dato de inflación de EU",
-      "tendencia": "sube",
-      "nota": "2026-11-10-el-peso-cae-0-43-y-cierra-en-18-62-por-dolar-tras-la-inflacion-de-eu-l"
+      "detalle": "Cierre del miércoles (Banxico): sin variación frente al martes",
+      "tendencia": "igual",
+      "nota": "2026-11-12-el-peso-cierra-sin-cambios-en-18-62-por-dolar-y-la-bolsa-suma-su-terce"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.71 USD",
-      "detalle": "Miércoles a media mañana en Europa: +0.2% por ataques a buques en Ormuz",
-      "tendencia": "sube",
-      "nota": "2026-11-11-el-brent-repunta-a-91-71-dolares-por-los-ataques-a-buques-en-el-estrec"
+      "valor": "91.29 USD",
+      "detalle": "Jueves 12 de noviembre: baja desde 91.71 dólares del miércoles",
+      "tendencia": "baja"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "71,894",
-      "detalle": "Cierre del martes: +0.05%, sexta alza seguida y nuevo máximo histórico",
+      "valor": "72,006",
+      "detalle": "Cierre del miércoles: +0.16%, séptima alza seguida y nuevo máximo histórico",
       "tendencia": "sube",
-      "nota": "2026-11-10-el-peso-cae-0-43-y-cierra-en-18-62-por-dolar-tras-la-inflacion-de-eu-l"
+      "nota": "2026-11-12-el-peso-cierra-sin-cambios-en-18-62-por-dolar-y-la-bolsa-suma-su-terce"
     },
     {
-      "nombre": "Tasa Banxico",
-      "valor": "6.25%",
-      "detalle": "Recorte de 25 puntos base por mayoría (3 a 2); vigente desde el 6 de noviembre",
+      "nombre": "Actividad industrial",
+      "valor": "-1.4%",
+      "detalle": "Septiembre vs. agosto (Inegi): mayor caída mensual desde octubre de 2024; +1.4% anual",
       "tendencia": "baja",
-      "nota": "2026-11-05-banxico-sorprende-y-recorta-su-tasa-a-6-25-el-nivel-mas-bajo-desde-mar"
+      "nota": "2026-11-12-la-actividad-industrial-cae-1-4-en-septiembre-su-peor-mes-desde-octubr"
     }
   ]
 }

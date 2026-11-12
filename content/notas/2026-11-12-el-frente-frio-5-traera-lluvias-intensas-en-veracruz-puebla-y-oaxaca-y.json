@@ -1,0 +1,22 @@
+{
+  "titulo": "El frente frío 5 traerá lluvias intensas en Veracruz, Puebla y Oaxaca y descenso de temperatura en el centro y norte",
+  "seccion": "nacional",
+  "fecha": "2026-11-12T07:07",
+  "resumen": "El Servicio Meteorológico Nacional prevé para este jueves lluvias intensas puntuales en Veracruz, Puebla y Oaxaca, fuertes a muy fuertes en el noreste, oriente y sureste, y fuertes en la península de Yucatán. Habrá rachas de 50 a 70 km/h en las costas de Tamaulipas y Veracruz y en el istmo de Tehuantepec, y bajará la temperatura por la tarde en el norte, noreste, oriente y centro. En la capital rige alerta amarilla por bajas temperaturas.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/12/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-12-de-noviembre-frente-frio-5-provocara-lluvias-intensas-en-14-estados/"
+    },
+    {
+      "medio": "Uno TV",
+      "enlace": "https://www.unotv.com/clima/clima-mexico-hoy-12-de-noviembre-2026-frente-frio-5-bajara-la-temperatura-y-causara-lluvias-en-todo-el-pais/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}
