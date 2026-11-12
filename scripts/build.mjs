@@ -47,6 +47,13 @@ const salida = "/* Generado por scripts/build.mjs — no editar a mano. */\n" +
   "window.HOY=" + JSON.stringify(hoy) + ";\n";
 fs.writeFileSync(path.join(RAIZ, "assets/datos.js"), salida);
 
+// Archivo: cada nota en assets/notas/<id>.json. datos.js solo lleva las MAX_NOTAS más recientes;
+// nota.html carga de aquí las más viejas para que sus enlaces sigan funcionando.
+const ARCHIVO = path.join(RAIZ, "assets/notas");
+fs.rmSync(ARCHIVO, { recursive: true, force: true });
+fs.mkdirSync(ARCHIVO, { recursive: true });
+for (const n of notas) fs.writeFileSync(path.join(ARCHIVO, n.id + ".json"), JSON.stringify(n));
+
 // Versión de datos.js en las páginas (?v=...) para que el navegador no muestre
 // una copia vieja guardada en caché después de publicar una nota.
 const version = crypto.createHash("sha1").update(salida).digest("hex").slice(0, 10);
