@@ -1,6 +1,6 @@
 {
   "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "07:10 h",
+  "actualizado": "18:45 h",
   "dato": {
     "cifra": "3.75%",
     "texto": "fue la inflación anual de octubre, su tercer mes seguido al alza.",
@@ -11,23 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.62",
-      "detalle": "Cierre del miércoles (Banxico): sin variación frente al martes",
+      "valor": "$18.61",
+      "detalle": "Cierre del jueves (Banxico): sin cambios por segundo día; rango de 18.56 a 18.69",
       "tendencia": "igual",
-      "nota": "2026-11-12-el-peso-cierra-sin-cambios-en-18-62-por-dolar-y-la-bolsa-suma-su-terce"
+      "nota": "2026-11-12-el-peso-resiste-la-amenaza-arancelaria-y-cierra-estable-en-18-61-por-d"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.29 USD",
-      "detalle": "Jueves 12 de noviembre: baja desde 91.71 dólares del miércoles",
-      "tendencia": "baja"
+      "valor": "95.82 USD",
+      "detalle": "Jueves 12 de noviembre: +3.3% tras declaraciones de Trump sobre Irán",
+      "tendencia": "sube",
+      "nota": "2026-11-12-el-brent-sube-3-3-a-95-82-dolares-despues-de-que-trump-dijo-que-eu-no"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "72,006",
-      "detalle": "Cierre del miércoles: +0.16%, séptima alza seguida y nuevo máximo histórico",
-      "tendencia": "sube",
-      "nota": "2026-11-12-el-peso-cierra-sin-cambios-en-18-62-por-dolar-y-la-bolsa-suma-su-terce"
+      "valor": "71,811",
+      "detalle": "Cierre del jueves: -0.27%, corta una racha de siete alzas",
+      "tendencia": "baja",
+      "nota": "2026-11-12-la-bolsa-mexicana-cae-0-27-y-corta-una-racha-de-siete-alzas-volaris-y"
     },
     {
       "nombre": "Actividad industrial",
