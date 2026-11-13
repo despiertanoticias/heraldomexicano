@@ -1,0 +1,22 @@
+{
+  "titulo": "Una falla global de Microsoft 365 deja sin correo a tribunales, bancos y gobiernos en Asia-Pacífico",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-13T06:48",
+  "resumen": "La interrupción, que comenzó el jueves, afectó Outlook, Exchange, Teams, Copilot y OneDrive; Downdetector acumuló más de 36 mil reportes en 72 países. En Tailandia cuatro grandes bancos suspendieron servicios que dependen del correo, en Japón el gobierno reportó fallas en su infraestructura y en Australia se vieron afectadas la Policía Federal y otras agencias. Microsoft dijo no tener indicios de actividad maliciosa y que la recuperación es gradual.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae / EFE",
+      "enlace": "https://www.infobae.com/america/agencias/2026/11/13/tribunales-bancos-e-instituciones-de-asia-pacifico-se-paralizan-por-la-caida-de-microsoft/"
+    },
+    {
+      "medio": "El Tiempo",
+      "enlace": "https://www.eltiempo.com/tecnosfera/novedades-tecnologia/ultimas-noticias-de-la-caida-mundial-de-outlook-365-microsoft-y-mas-la-compania-descarto-indicios-de-un-ataque-informatico-como-origen-de-las-fallas-3600724"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
