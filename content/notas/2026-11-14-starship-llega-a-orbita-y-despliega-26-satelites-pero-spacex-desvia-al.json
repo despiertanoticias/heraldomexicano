@@ -1,0 +1,22 @@
+{
+  "titulo": "Starship llega a órbita y despliega 26 satélites, pero SpaceX desvía al Golfo de México el propulsor que iba a atrapar",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-14T06:42",
+  "resumen": "El vuelo 15 de Starship despegó el 13 de noviembre desde Starbase, en el sur de Texas, alcanzó una órbita baja de unos 275 kilómetros y liberó 26 satélites Starlink V3. SpaceX canceló la captura del propulsor Super Heavy con la torre y lo dirigió al Golfo de México, sin explicar la causa. Para este sábado está previsto el intento de atrapar la nave con los brazos de la torre, si sus sistemas lo permiten.",
+  "cuerpo": "",
+  "imagen_tema": "texas",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Astro Vanguardia",
+      "enlace": "https://astrovanguardia.com.ar/lanzamientos/starship-flight-15-llego-a-orbita-y-solto-26-starlink-pero-el-super-heavy-no-fue-atrapado/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/america/ciencia-america/2026/11/13/spacex-buscara-por-primera-vez-atrapar-con-dos-pinzas-de-su-torre-de-lanzamiento-al-cohete-orbital-starship/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

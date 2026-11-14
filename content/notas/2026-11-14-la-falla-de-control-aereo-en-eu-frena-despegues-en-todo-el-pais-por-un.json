@@ -1,0 +1,22 @@
+{
+  "titulo": "La falla de control aéreo en EU frena despegues en todo el país por unas siete horas y afecta a más de 7 mil vuelos",
+  "seccion": "internacional",
+  "fecha": "2026-11-14T06:54",
+  "resumen": "La Administración Federal de Aviación suspendió el viernes los despegues en Estados Unidos por una interrupción en sus telecomunicaciones que alcanzó a los 22 centros de control de ruta. El secretario de Transporte, Sean Duffy, lo atribuyó a equipos antiguos que se sobrecargaron, y el secretario de Seguridad Nacional dijo que no hay indicios de un ataque. Las operaciones se reanudan de forma gradual.",
+  "cuerpo": "",
+  "imagen_tema": "ultimahora",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "El Cronista",
+      "enlace": "https://cronista.com/internacionales/suspenden-todos-los-vuelos-en-eeuu-una-falla-de-comunicacion-paraliza-los-aeropuertos"
+    },
+    {
+      "medio": "CNN en Español",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/13/eeuu/live-news/ultima-hora-suspension-vuelos-eeuu-noticias-retrasos-trax"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
