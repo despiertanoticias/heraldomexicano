@@ -1,6 +1,6 @@
 {
   "fecha": "Viernes 13 de noviembre de 2026",
-  "actualizado": "07:00 h",
+  "actualizado": "19:10 h",
   "dato": {
     "cifra": "3.75%",
     "texto": "fue la inflación anual de octubre, su tercer mes seguido al alza.",
@@ -11,31 +11,31 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.61",
-      "detalle": "Cierre del jueves (Banxico): sin cambios por segundo día; rango de 18.56 a 18.69",
-      "tendencia": "igual",
-      "nota": "2026-11-12-el-peso-resiste-la-amenaza-arancelaria-y-cierra-estable-en-18-61-por-d"
+      "valor": "$18.53",
+      "detalle": "Cierre del viernes: el peso gana 0.44% en el día y 0.51% en la semana",
+      "tendencia": "baja",
+      "nota": "2026-11-13-el-peso-cierra-la-semana-en-18-53-por-dolar-y-suma-dos-sesiones-de-gan"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "95.82 USD",
-      "detalle": "Jueves 12 de noviembre: +3.3% tras declaraciones de Trump sobre Irán",
-      "tendencia": "sube",
-      "nota": "2026-11-12-el-brent-sube-3-3-a-95-82-dolares-despues-de-que-trump-dijo-que-eu-no"
+      "valor": "95.84 USD",
+      "detalle": "Viernes 13 de noviembre: sin cambios (+0.02 USD); -1.57 USD en la semana",
+      "tendencia": "igual",
+      "nota": "2026-11-13-el-brent-cierra-sin-cambios-en-95-84-dolares-por-barril-ante-la-calma"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "71,811",
-      "detalle": "Cierre del jueves: -0.27%, corta una racha de siete alzas",
+      "valor": "71,205",
+      "detalle": "Cierre del viernes: -0.84%; -0.26% en la semana",
       "tendencia": "baja",
-      "nota": "2026-11-12-la-bolsa-mexicana-cae-0-27-y-corta-una-racha-de-siete-alzas-volaris-y"
+      "nota": "2026-11-13-la-bolsa-mexicana-cae-0-84-y-cierra-en-71-204-puntos-pierde-0-26-en-la"
     },
     {
-      "nombre": "Actividad industrial",
-      "valor": "-1.4%",
-      "detalle": "Septiembre vs. agosto (Inegi): mayor caída mensual desde octubre de 2024; +1.4% anual",
-      "tendencia": "baja",
-      "nota": "2026-11-12-la-actividad-industrial-cae-1-4-en-septiembre-su-peor-mes-desde-octubr"
+      "nombre": "Divisas por turismo",
+      "valor": "26,096 mdd",
+      "detalle": "Enero-septiembre (Inegi): +1.4% anual; turistas internacionales +3.8%",
+      "tendencia": "sube",
+      "nota": "2026-11-13-las-divisas-por-turismo-internacional-suben-1-4-a-septiembre-y-suman-2"
     }
   ]
 }
