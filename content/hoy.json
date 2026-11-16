@@ -1,6 +1,6 @@
 {
-  "fecha": "Domingo 15 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Lunes 16 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "dato": {
     "cifra": "3.75%",
     "texto": "fue la inflación anual de octubre, su tercer mes seguido al alza.",
@@ -12,16 +12,16 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$18.53",
-      "detalle": "Cierre del viernes: el peso gana 0.44% en el día y 0.51% en la semana",
+      "detalle": "Cierre del viernes 13; lunes 16 sin fix de Banxico por día festivo (cerca de 18.58 en mercado internacional)",
       "tendencia": "baja",
       "nota": "2026-11-13-el-peso-cierra-la-semana-en-18-53-por-dolar-y-suma-dos-sesiones-de-gan"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "95.84 USD",
-      "detalle": "Viernes 13 de noviembre: sin cambios (+0.02 USD); -1.57 USD en la semana",
-      "tendencia": "igual",
-      "nota": "2026-11-13-el-brent-cierra-sin-cambios-en-95-84-dolares-por-barril-ante-la-calma"
+      "valor": "94.86 USD",
+      "detalle": "Lunes 16, primeras operaciones: -1.0% frente al cierre del viernes (95.84)",
+      "tendencia": "baja",
+      "nota": "2026-11-16-el-brent-abre-la-semana-a-la-baja-y-cae-por-debajo-de-95-dolares-ante"
     },
     {
       "nombre": "S&P/BMV IPC",
