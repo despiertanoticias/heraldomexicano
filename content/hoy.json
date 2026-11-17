@@ -1,6 +1,6 @@
 {
   "fecha": "Lunes 16 de noviembre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:45 h",
   "dato": {
     "cifra": "3.75%",
     "texto": "fue la inflación anual de octubre, su tercer mes seguido al alza.",
@@ -12,30 +12,30 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$18.53",
-      "detalle": "Cierre del viernes 13; lunes 16 sin fix de Banxico por día festivo (cerca de 18.58 en mercado internacional)",
-      "tendencia": "baja",
-      "nota": "2026-11-13-el-peso-cierra-la-semana-en-18-53-por-dolar-y-suma-dos-sesiones-de-gan"
+      "detalle": "Lunes 16 en operaciones internacionales (Dow Jones): +0.11%; sin fix de Banxico por día festivo",
+      "tendencia": "sube",
+      "nota": "2026-11-16-el-dolar-cierra-el-dia-festivo-en-18-53-pesos-con-un-alza-de-0-11"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "94.86 USD",
-      "detalle": "Lunes 16, primeras operaciones: -1.0% frente al cierre del viernes (95.84)",
+      "valor": "92.44 USD",
+      "detalle": "Cierre del lunes 16: -3.55% (95.84 el viernes)",
       "tendencia": "baja",
-      "nota": "2026-11-16-el-brent-abre-la-semana-a-la-baja-y-cae-por-debajo-de-95-dolares-ante"
+      "nota": "2026-11-16-el-brent-se-desploma-3-55-y-cierra-en-92-44-dolares-por-la-recuperacio"
     },
     {
       "nombre": "S&P/BMV IPC",
       "valor": "71,205",
-      "detalle": "Cierre del viernes: -0.84%; -0.26% en la semana",
+      "detalle": "Cierre del viernes 13: -0.84%; la BMV no operó el lunes 16 por día festivo",
       "tendencia": "baja",
       "nota": "2026-11-13-la-bolsa-mexicana-cae-0-84-y-cierra-en-71-204-puntos-pierde-0-26-en-la"
     },
     {
-      "nombre": "Divisas por turismo",
-      "valor": "26,096 mdd",
-      "detalle": "Enero-septiembre (Inegi): +1.4% anual; turistas internacionales +3.8%",
-      "tendencia": "sube",
-      "nota": "2026-11-13-las-divisas-por-turismo-internacional-suben-1-4-a-septiembre-y-suman-2"
+      "nombre": "Nasdaq",
+      "valor": "24,509",
+      "detalle": "Cierre del lunes 16: -2.49%; S&P 500 -1.92%",
+      "tendencia": "baja",
+      "nota": "2026-11-16-wall-street-cae-y-el-nasdaq-pierde-2-49-por-la-crisis-en-nvidia-antes"
     }
   ]
 }
