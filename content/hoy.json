@@ -1,6 +1,6 @@
 {
   "fecha": "Martes 17 de noviembre de 2026",
-  "actualizado": "06:42 h",
+  "actualizado": "18:50 h",
   "dato": {
     "cifra": "3.75%",
     "texto": "fue la inflación anual de octubre, su tercer mes seguido al alza.",
@@ -11,31 +11,31 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.53",
-      "detalle": "Lunes 16 en operaciones internacionales (Dow Jones): +0.11%; sin fix de Banxico por día festivo",
-      "tendencia": "sube",
-      "nota": "2026-11-16-el-dolar-cierra-el-dia-festivo-en-18-53-pesos-con-un-alza-de-0-11"
+      "valor": "$18.43",
+      "detalle": "Martes 17, datos de Banxico (18.4298): el peso gana 0.45%",
+      "tendencia": "baja",
+      "nota": "2026-11-17-el-peso-gana-0-45-y-el-dolar-cierra-en-18-43-pesos"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "92.44 USD",
-      "detalle": "Cierre del lunes 16: -3.55% (95.84 el viernes)",
-      "tendencia": "baja",
-      "nota": "2026-11-16-el-brent-se-desploma-3-55-y-cierra-en-92-44-dolares-por-la-recuperacio"
+      "valor": "93.14 USD",
+      "detalle": "Cierre del martes 17: +0.76%; WTI en 86.01",
+      "tendencia": "sube",
+      "nota": "2026-11-17-el-brent-sube-0-76-y-cierra-en-93-14-dolares-por-los-ataques-entre-eu"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "71,205",
-      "detalle": "Cierre del viernes 13: -0.84%; la BMV no operó el lunes 16 por día festivo",
+      "valor": "70,389",
+      "detalle": "Cierre del martes 17: -1.15%, tercera baja seguida",
       "tendencia": "baja",
-      "nota": "2026-11-13-la-bolsa-mexicana-cae-0-84-y-cierra-en-71-204-puntos-pierde-0-26-en-la"
+      "nota": "2026-11-17-la-bolsa-mexicana-cae-1-15-y-cierra-en-70-388-puntos-su-mayor-baja-des"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "24,509",
-      "detalle": "Cierre del lunes 16: -2.49%; S&P 500 -1.92%",
+      "valor": "24,328",
+      "detalle": "Cierre del martes 17: -0.74%; Dow Jones -1.64%",
       "tendencia": "baja",
-      "nota": "2026-11-16-wall-street-cae-y-el-nasdaq-pierde-2-49-por-la-crisis-en-nvidia-antes"
+      "nota": "2026-11-17-wall-street-cae-por-fallas-tecnologicas-y-la-espera-de-nvidia-el-dow-j"
     }
   ]
 }
