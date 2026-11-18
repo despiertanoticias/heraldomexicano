@@ -1,0 +1,22 @@
+{
+  "titulo": "OpenAI lanza GPT-6.2 Astra y Sol, modelos que prometen más rendimiento con menor costo",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-18T06:20",
+  "resumen": "OpenAI presentó dos modelos: Astra, para las tareas más complejas, y Sol, más eficiente, que sustituye a GPT-6.1 Sol. La empresa asegura que ambos logran mejores resultados con menos tokens; Astra cuesta 8 dólares por millón de tokens de entrada y 40 de salida, 20% menos que su antecesor. Están disponibles en ChatGPT para usuarios de pago y en la API. Además, OpenAI anunció un acuerdo de ciberdefensa con la OTAN.",
+  "cuerpo": "",
+  "imagen_tema": "tech2",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Diario Siglo XXI (Europa Press)",
+      "enlace": "https://diariosigloxxi.com/texto-ep/mostrar/20261118110859/openai-lanza-gpt-62-astra-sol-mayor-rendimiento-utilizando-menos-tokens-garantizar-menor-coste"
+    },
+    {
+      "medio": "Euronews",
+      "enlace": "https://es.euronews.com/2026/11/18/otan-openai-acuerdan-cooperar-ciberdefensa-herramientas-inteligencia-artificial"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

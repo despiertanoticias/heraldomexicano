@@ -1,6 +1,6 @@
 {
-  "fecha": "Martes 17 de noviembre de 2026",
-  "actualizado": "18:50 h",
+  "fecha": "Miércoles 18 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "dato": {
     "cifra": "3.75%",
     "texto": "fue la inflación anual de octubre, su tercer mes seguido al alza.",
@@ -18,10 +18,10 @@
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "93.14 USD",
-      "detalle": "Cierre del martes 17: +0.76%; WTI en 86.01",
-      "tendencia": "sube",
-      "nota": "2026-11-17-el-brent-sube-0-76-y-cierra-en-93-14-dolares-por-los-ataques-entre-eu"
+      "valor": "92.34 USD",
+      "detalle": "Miércoles 18 por la mañana: -0.87%; WTI en 84.56",
+      "tendencia": "baja",
+      "nota": "2026-11-18-el-brent-baja-0-87-a-92-34-dolares-en-la-manana-el-wti-cae-1-69"
     },
     {
       "nombre": "S&P/BMV IPC",
