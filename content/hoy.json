@@ -1,6 +1,6 @@
 {
-  "fecha": "Miércoles 18 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "fecha": "Jueves 19 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "dato": {
     "cifra": "3.75%",
     "texto": "fue la inflación anual de octubre, su tercer mes seguido al alza.",
@@ -11,31 +11,31 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$18.43",
-      "detalle": "Martes 17, datos de Banxico (18.4298): el peso gana 0.45%",
-      "tendencia": "baja",
-      "nota": "2026-11-17-el-peso-gana-0-45-y-el-dolar-cierra-en-18-43-pesos"
+      "valor": "$18.85",
+      "detalle": "Miércoles 18, datos de Banxico (18.8456): el peso pierde 0.93%",
+      "tendencia": "sube",
+      "nota": "2026-11-19-el-peso-pierde-0-93-y-el-dolar-cierra-en-18-85-tras-minutas-de-la-fed"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "92.34 USD",
-      "detalle": "Miércoles 18 por la mañana: -0.87%; WTI en 84.56",
+      "valor": "91.65 USD",
+      "detalle": "Cierre del miércoles 18: -1.60%; WTI en 83.34 (-3.10%)",
       "tendencia": "baja",
-      "nota": "2026-11-18-el-brent-baja-0-87-a-92-34-dolares-en-la-manana-el-wti-cae-1-69"
+      "nota": "2026-11-19-el-wti-cae-3-10-a-83-34-dolares-por-un-alza-inesperada-en-inventarios"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "70,389",
-      "detalle": "Cierre del martes 17: -1.15%, tercera baja seguida",
+      "valor": "69,154",
+      "detalle": "Cierre del miércoles 18: -1.75%, cuarta baja seguida",
       "tendencia": "baja",
-      "nota": "2026-11-17-la-bolsa-mexicana-cae-1-15-y-cierra-en-70-388-puntos-su-mayor-baja-des"
+      "nota": "2026-11-19-la-bolsa-mexicana-cae-1-75-a-69-154-puntos-su-cuarta-baja-seguida-peno"
     },
     {
       "nombre": "Nasdaq",
-      "valor": "24,328",
-      "detalle": "Cierre del martes 17: -0.74%; Dow Jones -1.64%",
-      "tendencia": "baja",
-      "nota": "2026-11-17-wall-street-cae-por-fallas-tecnologicas-y-la-espera-de-nvidia-el-dow-j"
+      "valor": "24,430",
+      "detalle": "Cierre del miércoles 18: +0.42%; Dow Jones -1.11%",
+      "tendencia": "sube",
+      "nota": "2026-11-19-el-dow-jones-cae-1-11-y-nvidia-baja-2-89-pese-a-superar-expectativas-e"
     }
   ]
 }

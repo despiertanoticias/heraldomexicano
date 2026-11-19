@@ -1,0 +1,22 @@
+{
+  "titulo": "EU descarta un ciberataque detrás de las fallas de Outlook, Apple, bancos y aerolíneas de la última semana",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-19T06:45",
+  "resumen": "Jay Clayton dijo que la investigación encontró problemas aislados por mantenimiento y cambios técnicos, sin evidencia de una operación coordinada; Rubio coincidió desde Manila. El responsable de la FAA, Bryan Bedford, asumió la culpa por la suspensión de vuelos del viernes que afectó a más de un millón de pasajeros.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "La Razón",
+      "enlace": "https://www.razon.com.mx/mundo/2026/11/19/estados-unidos-descarta-un-ciberataque-en-fallas/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/estados-unidos/2026/11/18/rubio-descarto-que-las-fallas-tecnologicas-en-eeuu-respondan-a-un-ciberataque-coordinado-no-tenemos-ninguna-evidencia/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
