@@ -1,6 +1,6 @@
 {
   "fecha": "Viernes 20 de noviembre de 2026",
-  "actualizado": "06:38 h",
+  "actualizado": "18:45 h",
   "dato": {
     "cifra": "3.75%",
     "texto": "fue la inflación anual de octubre, su tercer mes seguido al alza.",
@@ -11,31 +11,31 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$19.12",
-      "detalle": "Jueves 19, datos de Banxico: el peso pierde 1.43%",
+      "valor": "$19.17",
+      "detalle": "Viernes 20: el peso pierde 0.48%; el dólar sube 3.63% en la semana",
       "tendencia": "sube",
-      "nota": "2026-11-19-el-peso-se-hunde-1-43-y-el-dolar-cierra-en-19-12-su-peor-nivel-desde-j"
+      "nota": "2026-11-20-el-peso-cierra-en-19-17-por-dolar-la-divisa-estadounidense-sube-3-63"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "91.98 USD",
-      "detalle": "Cierre del jueves 19: +0.03%; WTI diciembre en 83.21 (-0.06%)",
-      "tendencia": "igual",
-      "nota": "2026-11-19-el-brent-cierra-casi-sin-cambios-en-91-98-dolares-acumula-una-caida-ce"
+      "valor": "92.57 USD",
+      "detalle": "Cierre del viernes 20: +0.64%; WTI en 83.98 (+0.93%)",
+      "tendencia": "sube",
+      "nota": "2026-11-20-el-brent-repunta-a-92-57-dolares-pero-el-petroleo-acumula-tres-semanas"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "68,714",
-      "detalle": "Cierre del jueves 19: -0.64%, quinta baja seguida",
-      "tendencia": "baja",
-      "nota": "2026-11-19-la-bolsa-mexicana-cae-0-64-a-68-713-puntos-y-suma-cinco-sesiones-a-la"
+      "valor": "+0.11%",
+      "detalle": "Cierre del viernes 20: sube impulsado por Gruma y Grupo México",
+      "tendencia": "sube",
+      "nota": "2026-11-20-viernes-negro-en-wall-street-el-s-p-500-cae-3-70-y-entra-en-correccion"
     },
     {
-      "nombre": "Dow Jones",
-      "valor": "-1,101 pts",
-      "detalle": "Cierre del jueves 19: los tres índices de Wall Street caen más de 2%",
+      "nombre": "S&P 500",
+      "valor": "-3.70%",
+      "detalle": "Cierre del viernes 20: peor caída desde 2020; Nasdaq -5.28%",
       "tendencia": "baja",
-      "nota": "2026-11-19-el-dow-jones-se-desploma-1-101-puntos-y-el-s-p-500-suma-seis-caidas-se"
+      "nota": "2026-11-20-viernes-negro-en-wall-street-el-s-p-500-cae-3-70-y-entra-en-correccion"
     }
   ]
 }
