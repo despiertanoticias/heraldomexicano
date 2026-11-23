@@ -1,0 +1,22 @@
+{
+  "titulo": "El PIB de México crece 0.9% en el tercer trimestre y 3.3% a tasa anual, confirma el Inegi",
+  "seccion": "economia",
+  "fecha": "2026-11-23T06:40",
+  "resumen": "La economía avanzó 0.9% entre julio y septiembre frente al trimestre previo, por debajo del 1.4% del segundo trimestre, según las cifras revisadas que el Inegi publicó este lunes. A tasa anual el crecimiento fue de 3.3%, una décima más que la estimación oportuna de octubre. Los servicios subieron 1.2% trimestral, la industria 0.4% y el campo 0.3%; de enero a septiembre el PIB acumula 1.9% anual.",
+  "cuerpo": "",
+  "imagen_tema": "bolsa",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Expansión",
+      "enlace": "https://expansion.mx/economia/2026/11/23/pib-de-mexico-crece-0-9-tercer-trimestre-pierde-ritmo-inegi"
+    },
+    {
+      "medio": "El CEO",
+      "enlace": "https://elceo.com/economia/pib-mexico-tercer-trimestre-2026-inegi-cifras-revisadas/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}

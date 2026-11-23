@@ -1,12 +1,12 @@
 {
-  "fecha": "Domingo 22 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Lunes 23 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "dato": {
-    "cifra": "3.75%",
-    "texto": "fue la inflación anual de octubre, su tercer mes seguido al alza.",
-    "detalle": "Subyacente: 3.80%; 3.45% en septiembre",
-    "fuente": "INEGI, INPC, octubre 2026",
-    "enlace": "https://www.inegi.org.mx/temas/inpc/"
+    "cifra": "3.3%",
+    "texto": "creció la economía mexicana a tasa anual en el tercer trimestre de 2026.",
+    "detalle": "0.9% trimestral; 1.4% en el segundo trimestre",
+    "fuente": "Inegi, PIB trimestral, cifras revisadas 3T 2026",
+    "enlace": "https://www.inegi.org.mx/temas/pib/"
   },
   "indicadores": [
     {
