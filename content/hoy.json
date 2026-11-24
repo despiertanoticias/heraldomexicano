@@ -1,41 +1,41 @@
 {
-  "fecha": "Lunes 23 de noviembre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Martes 24 de noviembre de 2026",
+  "actualizado": "06:59 h",
   "dato": {
-    "cifra": "3.3%",
-    "texto": "creció la economía mexicana a tasa anual en el tercer trimestre de 2026.",
-    "detalle": "0.9% trimestral; 1.4% en el segundo trimestre",
-    "fuente": "Inegi, PIB trimestral, cifras revisadas 3T 2026",
-    "enlace": "https://www.inegi.org.mx/temas/pib/"
+    "cifra": "3.96%",
+    "texto": "fue la inflación anual en la primera quincena de noviembre de 2026.",
+    "detalle": "0.54% quincenal; subyacente -0.10% y no subyacente +2.72%",
+    "fuente": "Inegi, INPC primera quincena de noviembre de 2026",
+    "enlace": "https://www.inegi.org.mx/temas/inpc/"
   },
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
       "valor": "$19.17",
-      "detalle": "Lunes 23 (Banxico): +0.04%; FIX en 19.1648",
+      "detalle": "Lunes 23 (Banxico): +0.05%; abre el martes en 19.29",
       "tendencia": "sube",
       "nota": "2026-11-23-el-peso-cierra-en-19-17-por-dolar-casi-sin-cambios-frente-al-viernes"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "89.37 USD",
-      "detalle": "Lunes 23: -3.46%; WTI en 80.17 (-3.88%)",
+      "valor": "89.10 USD",
+      "detalle": "Martes 24, 07:00 GMT: -0.3%; WTI en 79.97; mezcla mexicana 76.10 (lunes)",
       "tendencia": "baja",
       "nota": "2026-11-23-el-petroleo-cae-casi-4-el-brent-baja-a-89-37-dolares-ante-la-prevision"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "+0.11%",
-      "detalle": "Cierre del viernes 20: sube impulsado por Gruma y Grupo México",
+      "valor": "69,355.62",
+      "detalle": "Lunes 23: +1.06%; rompe racha de seis caídas",
       "tendencia": "sube",
-      "nota": "2026-11-20-viernes-negro-en-wall-street-el-s-p-500-cae-3-70-y-entra-en-correccion"
+      "nota": "2026-11-24-la-bolsa-mexicana-rompe-una-racha-de-seis-caidas-el-ipc-sube-1-06-y-ci"
     },
     {
-      "nombre": "S&P 500",
-      "valor": "+4.75%",
-      "detalle": "Lunes 23 (preliminar): 7,238.84 puntos; Nasdaq +6.47%",
+      "nombre": "Inflación anual",
+      "valor": "3.96%",
+      "detalle": "1a quincena de noviembre (Inegi); 0.54% quincenal",
       "tendencia": "sube",
-      "nota": "2026-11-23-wall-street-se-dispara-el-s-p-500-sube-4-75-y-el-nasdaq-6-47-tras-el-r"
+      "nota": "2026-11-24-la-inflacion-sube-a-3-96-anual-en-la-primera-quincena-de-noviembre-por"
     }
   ]
 }
