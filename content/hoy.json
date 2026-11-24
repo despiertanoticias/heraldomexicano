@@ -1,6 +1,6 @@
 {
   "fecha": "Lunes 23 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:55 h",
   "dato": {
     "cifra": "3.3%",
     "texto": "creció la economía mexicana a tasa anual en el tercer trimestre de 2026.",
@@ -12,16 +12,16 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$19.17",
-      "detalle": "Viernes 20: el peso pierde 0.48%; el dólar sube 3.63% en la semana",
+      "detalle": "Lunes 23 (Banxico): +0.04%; FIX en 19.1648",
       "tendencia": "sube",
-      "nota": "2026-11-20-el-peso-cierra-en-19-17-por-dolar-la-divisa-estadounidense-sube-3-63"
+      "nota": "2026-11-23-el-peso-cierra-en-19-17-por-dolar-casi-sin-cambios-frente-al-viernes"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "92.57 USD",
-      "detalle": "Cierre del viernes 20: +0.64%; WTI en 83.98 (+0.93%)",
-      "tendencia": "sube",
-      "nota": "2026-11-20-el-brent-repunta-a-92-57-dolares-pero-el-petroleo-acumula-tres-semanas"
+      "valor": "89.37 USD",
+      "detalle": "Lunes 23: -3.46%; WTI en 80.17 (-3.88%)",
+      "tendencia": "baja",
+      "nota": "2026-11-23-el-petroleo-cae-casi-4-el-brent-baja-a-89-37-dolares-ante-la-prevision"
     },
     {
       "nombre": "S&P/BMV IPC",
@@ -32,10 +32,10 @@
     },
     {
       "nombre": "S&P 500",
-      "valor": "-3.70%",
-      "detalle": "Cierre del viernes 20: peor caída desde 2020; Nasdaq -5.28%",
-      "tendencia": "baja",
-      "nota": "2026-11-20-viernes-negro-en-wall-street-el-s-p-500-cae-3-70-y-entra-en-correccion"
+      "valor": "+4.75%",
+      "detalle": "Lunes 23 (preliminar): 7,238.84 puntos; Nasdaq +6.47%",
+      "tendencia": "sube",
+      "nota": "2026-11-23-wall-street-se-dispara-el-s-p-500-sube-4-75-y-el-nasdaq-6-47-tras-el-r"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "titulo": "Wall Street se dispara: el S&P 500 sube 4.75% y el Nasdaq 6.47% tras el regreso de Jensen Huang a Nvidia",
+  "seccion": "economia",
+  "fecha": "2026-11-23T18:53",
+  "resumen": "Las bolsas de Nueva York recuperaron este lunes poco más de la mitad de lo perdido la semana pasada. Con cifras preliminares, el S&P 500 ganó 4.75% a 7 mil 238.84 puntos, el Nasdaq 6.47% a 24 mil 080.94 y el Dow Jones 3.02% a 49 mil 599.89. El impulso vino de Nvidia, que subió 31.5% después de que su consejo restituyera a Huang como director general; Oracle avanzó 12.3% y CoreWeave 22.3%.",
+  "cuerpo": "",
+  "imagen_tema": "bolsa",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Forbes México",
+      "enlace": "https://forbes.com.mx/wall-street-cierra-con-fuerte-avance-tras-el-regreso-de-jensen-huang-como-ceo-de-nvidia"
+    },
+    {
+      "medio": "Yahoo Noticias (AP)",
+      "enlace": "https://es-us.noticias.yahoo.com/wall-street-sube-regreso-huang-222659658.html"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
