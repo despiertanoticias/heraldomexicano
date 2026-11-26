@@ -1,41 +1,40 @@
 {
-  "fecha": "Martes 24 de noviembre de 2026",
-  "actualizado": "06:59 h",
+  "fecha": "Jueves 26 de noviembre de 2026",
+  "actualizado": "07:00 h",
   "dato": {
-    "cifra": "3.96%",
-    "texto": "fue la inflación anual en la primera quincena de noviembre de 2026.",
-    "detalle": "0.54% quincenal; subyacente -0.10% y no subyacente +2.72%",
-    "fuente": "Inegi, INPC primera quincena de noviembre de 2026",
-    "enlace": "https://www.inegi.org.mx/temas/inpc/"
+    "cifra": "2.9%",
+    "texto": "fue la tasa de desocupación en el tercer trimestre de 2026, su nivel más alto desde 2024.",
+    "detalle": "1.8 millones de personas desocupadas; 33.1 millones en la informalidad (55% de la población ocupada)",
+    "fuente": "Inegi, ENOE tercer trimestre de 2026",
+    "enlace": "https://www.inegi.org.mx/programas/enoe/15ymas/"
   },
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$19.17",
-      "detalle": "Lunes 23 (Banxico): +0.05%; abre el martes en 19.29",
+      "valor": "$19.59",
+      "detalle": "Miércoles 25 (Banxico): +0.88%; sexta alza seguida; abre el jueves cerca de 19.69",
       "tendencia": "sube",
-      "nota": "2026-11-23-el-peso-cierra-en-19-17-por-dolar-casi-sin-cambios-frente-al-viernes"
+      "nota": "2026-11-26-el-peso-suma-seis-caidas-y-cierra-en-19-59-por-dolar-su-peor-nivel-des"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "89.10 USD",
-      "detalle": "Martes 24, 07:00 GMT: -0.3%; WTI en 79.97; mezcla mexicana 76.10 (lunes)",
-      "tendencia": "baja",
-      "nota": "2026-11-23-el-petroleo-cae-casi-4-el-brent-baja-a-89-37-dolares-ante-la-prevision"
+      "valor": "90.91 USD",
+      "detalle": "Miércoles 25: +2.4%; WTI en 84.15; mezcla mexicana 81.60",
+      "tendencia": "sube"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "69,355.62",
-      "detalle": "Lunes 23: +1.06%; rompe racha de seis caídas",
+      "valor": "71,372.25",
+      "detalle": "Miércoles 25: +2.99%; mayor alza desde junio",
       "tendencia": "sube",
-      "nota": "2026-11-24-la-bolsa-mexicana-rompe-una-racha-de-seis-caidas-el-ipc-sube-1-06-y-ci"
+      "nota": "2026-11-26-mexico-queda-fuera-por-ahora-de-los-nuevos-aranceles-que-eu-propone-a"
     },
     {
-      "nombre": "Inflación anual",
-      "valor": "3.96%",
-      "detalle": "1a quincena de noviembre (Inegi); 0.54% quincenal",
+      "nombre": "Desempleo",
+      "valor": "2.9%",
+      "detalle": "3er trimestre de 2026 (Inegi); 2.7% en el trimestre previo",
       "tendencia": "sube",
-      "nota": "2026-11-24-la-inflacion-sube-a-3-96-anual-en-la-primera-quincena-de-noviembre-por"
+      "nota": "2026-11-26-el-desempleo-sube-a-2-9-en-el-tercer-trimestre-la-informalidad-alcanza"
     }
   ]
 }
