@@ -1,6 +1,6 @@
 {
   "fecha": "Jueves 26 de noviembre de 2026",
-  "actualizado": "07:00 h",
+  "actualizado": "18:40 h",
   "dato": {
     "cifra": "2.9%",
     "texto": "fue la tasa de desocupación en el tercer trimestre de 2026, su nivel más alto desde 2024.",
@@ -11,30 +11,31 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$19.59",
-      "detalle": "Miércoles 25 (Banxico): +0.88%; sexta alza seguida; abre el jueves cerca de 19.69",
+      "valor": "$19.72",
+      "detalle": "Jueves 26 (Banxico): +0.65%; séptima alza seguida; FIX 19.7203",
       "tendencia": "sube",
-      "nota": "2026-11-26-el-peso-suma-seis-caidas-y-cierra-en-19-59-por-dolar-su-peor-nivel-des"
+      "nota": "2026-11-26-el-peso-hila-siete-caidas-y-cierra-en-19-72-por-dolar-banxico-asegura"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "90.91 USD",
-      "detalle": "Miércoles 25: +2.4%; WTI en 84.15; mezcla mexicana 81.60",
-      "tendencia": "sube"
+      "valor": "96.53 USD",
+      "detalle": "Jueves 26: +2.02%; WTI en 84.87",
+      "tendencia": "sube",
+      "nota": "2026-11-26-el-brent-sube-a-96-53-dolares-por-ataques-en-el-golfo-persico-la-opep"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "71,372.25",
-      "detalle": "Miércoles 25: +2.99%; mayor alza desde junio",
-      "tendencia": "sube",
-      "nota": "2026-11-26-mexico-queda-fuera-por-ahora-de-los-nuevos-aranceles-que-eu-propone-a"
+      "valor": "70,353.18",
+      "detalle": "Jueves 26: -1.43%; toma de utilidades",
+      "tendencia": "baja",
+      "nota": "2026-11-26-la-bolsa-mexicana-cae-1-43-por-toma-de-utilidades-tras-el-repunte-del"
     },
     {
-      "nombre": "Desempleo",
-      "valor": "2.9%",
-      "detalle": "3er trimestre de 2026 (Inegi); 2.7% en el trimestre previo",
+      "nombre": "PIB 2026 (Banxico)",
+      "valor": "1.9%",
+      "detalle": "Pronóstico del informe trimestral; antes 1.5%",
       "tendencia": "sube",
-      "nota": "2026-11-26-el-desempleo-sube-a-2-9-en-el-tercer-trimestre-la-informalidad-alcanza"
+      "nota": "2026-11-26-banxico-eleva-a-1-9-su-pronostico-de-crecimiento-para-2026-y-preve-lle"
     }
   ]
 }
