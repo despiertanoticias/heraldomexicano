@@ -1,6 +1,6 @@
 {
-  "fecha": "Jueves 26 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Viernes 27 de noviembre de 2026",
+  "actualizado": "06:59 h",
   "dato": {
     "cifra": "2.9%",
     "texto": "fue la tasa de desocupación en el tercer trimestre de 2026, su nivel más alto desde 2024.",
@@ -12,9 +12,9 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$19.72",
-      "detalle": "Jueves 26 (Banxico): +0.65%; séptima alza seguida; FIX 19.7203",
+      "detalle": "Jueves 26 (Banxico): +0.65%; FIX 19.7203. Viernes abre en 19.54 (-0.83%)",
       "tendencia": "sube",
-      "nota": "2026-11-26-el-peso-hila-siete-caidas-y-cierra-en-19-72-por-dolar-banxico-asegura"
+      "nota": "2026-11-27-el-peso-rompe-su-racha-de-siete-caidas-y-abre-el-viernes-en-19-54-por"
     },
     {
       "nombre": "Petróleo Brent",
@@ -31,11 +31,11 @@
       "nota": "2026-11-26-la-bolsa-mexicana-cae-1-43-por-toma-de-utilidades-tras-el-repunte-del"
     },
     {
-      "nombre": "PIB 2026 (Banxico)",
-      "valor": "1.9%",
-      "detalle": "Pronóstico del informe trimestral; antes 1.5%",
+      "nombre": "Desempleo (octubre)",
+      "valor": "3.0%",
+      "detalle": "Inegi ENOE: 1.9 millones de desocupados; informalidad 55.7%",
       "tendencia": "sube",
-      "nota": "2026-11-26-banxico-eleva-a-1-9-su-pronostico-de-crecimiento-para-2026-y-preve-lle"
+      "nota": "2026-11-27-el-desempleo-sube-a-3-0-en-octubre-el-empleo-formal-pierde-507-mil-pla"
     }
   ]
 }
