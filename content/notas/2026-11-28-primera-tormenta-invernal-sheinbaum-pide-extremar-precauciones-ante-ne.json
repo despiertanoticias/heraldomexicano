@@ -1,0 +1,26 @@
+{
+  "titulo": "Primera tormenta invernal: Sheinbaum pide extremar precauciones ante nevadas, lluvias torrenciales y heladas de hasta -10 °C",
+  "seccion": "nacional",
+  "fecha": "2026-11-28T06:44",
+  "resumen": "La presidenta Claudia Sheinbaum llamó a la población a abrigarse y seguir las recomendaciones durante el fin de semana por la primera tormenta invernal de la temporada 2026-2027. El Servicio Meteorológico Nacional prevé este sábado lluvias torrenciales en Jalisco, Colima, Michoacán y puntos de Guerrero, con acumulados de hasta 250 mm en el occidente, y posible nieve o aguanieve por encima de 2,800 metros en Michoacán, Guanajuato, Querétaro, Hidalgo, Edomex, CDMX, Morelos, Tlaxcala, Puebla y Veracruz. En las sierras de Chihuahua y Durango las mínimas llegan a -10 °C; el domingo el sistema se debilitará, aunque seguirán las heladas.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "La Jornada",
+      "enlace": "https://www.jornada.com.mx/2026/11/28/estados/020n2est"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/28/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-sabado-28-de-noviembre-tormenta-invernal-amenaza-con-lluvias-y-nevadas/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/28/las-impresionantes-fotos-de-cdmx-bajo-la-tormenta-invernal-que-azota-al-pais/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}

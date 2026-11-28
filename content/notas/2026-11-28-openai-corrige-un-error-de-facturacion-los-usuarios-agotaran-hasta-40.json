@@ -1,0 +1,18 @@
+{
+  "titulo": "OpenAI corrige un error de facturación: los usuarios agotarán hasta 40% más rápido sus límites en GPT-6.2",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-28T06:26",
+  "resumen": "OpenAI corrigió una falla que aplicaba descuentos indebidos en el consumo de los modelos GPT-6.2 Astra y Sol, por lo que los usuarios agotarán sus límites de uso 40% más rápido con Astra y 25% más rápido con Sol. Thibault Sottiaux, jefe de ingeniería de ChatGPT, informó en X que no se cobrará la diferencia y que habrá un restablecimiento de límites para los planes Go, Plus, Pro y Business.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae (Europa Press)",
+      "enlace": "https://www.infobae.com/america/agencias/2026/11/27/openai-corrige-un-error-de-facturacion-en-gpt-62-astra-y-sol-los-usuarios-agotaran-sus-limites-un-40-y-25-mas-rapido/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

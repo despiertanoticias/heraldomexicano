@@ -1,6 +1,6 @@
 {
-  "fecha": "Viernes 27 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Sábado 28 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "dato": {
     "cifra": "2.9%",
     "texto": "fue la tasa de desocupación en el tercer trimestre de 2026, su nivel más alto desde 2024.",
@@ -12,9 +12,9 @@
     {
       "nombre": "Dólar (cierre)",
       "valor": "$19.67",
-      "detalle": "Viernes 27 (Banxico): 19.6726, el peso gana 0.25% y rompe racha de siete caídas",
+      "detalle": "Viernes 27 (Banxico): el peso gana 0.25% en el día, pero pierde 2.7% (51 centavos) en la semana",
       "tendencia": "baja",
-      "nota": "2026-11-27-el-peso-rompe-su-racha-negativa-y-cierra-en-19-67-por-dolar"
+      "nota": "2026-11-28-el-peso-cierra-su-segunda-semana-de-perdidas-cae-2-7-51-centavos-pese"
     },
     {
       "nombre": "Petróleo Brent",
@@ -31,11 +31,11 @@
       "nota": "2026-11-27-la-bolsa-mexicana-sube-1-85-y-cierra-la-semana-con-una-ganancia-de-4-4"
     },
     {
-      "nombre": "Desempleo (octubre)",
-      "valor": "3.0%",
-      "detalle": "Inegi ENOE: 1.9 millones de desocupados; informalidad 55.7%",
+      "nombre": "Balanza comercial (octubre)",
+      "valor": "+298.2 mdd",
+      "detalle": "Inegi: exportaciones +30.2%; superávit de 9,552.5 mdd en enero-octubre",
       "tendencia": "sube",
-      "nota": "2026-11-27-el-desempleo-sube-a-3-0-en-octubre-el-empleo-formal-pierde-507-mil-pla"
+      "nota": "2026-11-28-mexico-vuelve-al-superavit-comercial-en-octubre-298-millones-de-dolare"
     }
   ]
 }
