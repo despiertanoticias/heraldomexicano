@@ -1,6 +1,6 @@
 {
   "fecha": "Viernes 27 de noviembre de 2026",
-  "actualizado": "06:59 h",
+  "actualizado": "18:45 h",
   "dato": {
     "cifra": "2.9%",
     "texto": "fue la tasa de desocupación en el tercer trimestre de 2026, su nivel más alto desde 2024.",
@@ -11,24 +11,24 @@
   "indicadores": [
     {
       "nombre": "Dólar (cierre)",
-      "valor": "$19.72",
-      "detalle": "Jueves 26 (Banxico): +0.65%; FIX 19.7203. Viernes abre en 19.54 (-0.83%)",
-      "tendencia": "sube",
-      "nota": "2026-11-27-el-peso-rompe-su-racha-de-siete-caidas-y-abre-el-viernes-en-19-54-por"
+      "valor": "$19.67",
+      "detalle": "Viernes 27 (Banxico): 19.6726, el peso gana 0.25% y rompe racha de siete caídas",
+      "tendencia": "baja",
+      "nota": "2026-11-27-el-peso-rompe-su-racha-negativa-y-cierra-en-19-67-por-dolar"
     },
     {
       "nombre": "Petróleo Brent",
-      "valor": "96.53 USD",
-      "detalle": "Jueves 26: +2.02%; WTI en 84.87",
-      "tendencia": "sube",
-      "nota": "2026-11-26-el-brent-sube-a-96-53-dolares-por-ataques-en-el-golfo-persico-la-opep"
+      "valor": "95.44 USD",
+      "detalle": "Viernes 27: -1.2%; WTI en 83.08 (-0.7%)",
+      "tendencia": "baja",
+      "nota": "2026-11-27-el-brent-baja-1-2-a-95-44-dolares-pero-termina-la-semana-al-alza-por-r"
     },
     {
       "nombre": "S&P/BMV IPC",
-      "valor": "70,353.18",
-      "detalle": "Jueves 26: -1.43%; toma de utilidades",
-      "tendencia": "baja",
-      "nota": "2026-11-26-la-bolsa-mexicana-cae-1-43-por-toma-de-utilidades-tras-el-repunte-del"
+      "valor": "71,657.88",
+      "detalle": "Viernes 27: +1.85%; +4.41% en la semana",
+      "tendencia": "sube",
+      "nota": "2026-11-27-la-bolsa-mexicana-sube-1-85-y-cierra-la-semana-con-una-ganancia-de-4-4"
     },
     {
       "nombre": "Desempleo (octubre)",
